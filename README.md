@@ -1,7 +1,7 @@
 ### Eduardo Meireles 👋
 
 - 🔭 Mobile Performance Coordinator & Future Mobile Android Developer
-- 🌱 I’m currently learning Kotlin, Flutter & Mobile Android Devoloping at DigitalHouse-SP
+- 🌱 I’m currently learning Kotlin, Flutter & Mobile Android Development at DigitalHouse-SP
 
  <div>
   <a href="https://github.com/eduardomeireles87">
