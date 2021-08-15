@@ -1,16 +1,35 @@
-### Hi there 👋
+### Eduardo Meireles 👋
 
-<!--
-**eduardomeireles87/eduardomeireles87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Mobile Performance Coordinator & Future Mobile Android Developer
+- 🌱 I’m currently learning Kotlin at DigitalHouse-SP
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/eduardomeireles87">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardomeireles8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomeireles8&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dart/dart-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+  
+</div>
+  
+##
+  
+  <div> 
+  <a href="https://www.linkedin.com/in/meireleseduardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+   
+   ![Snake animation](https://github.com/eduardomeireles87/eduardomeireles87/blob/output/github-contribution-grid-snake.svg)
+   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+</div>
+
